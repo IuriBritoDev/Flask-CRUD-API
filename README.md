@@ -8,11 +8,11 @@
 
 ## Intalando as bibliotecas
  pip install flask 
- 
+
  pip install Flask-SQLAlchemy 
- 
+
  pip install flask-marshmallow
- 
+
  pip install marshmallow-sqlalchemy
  
  pip install Flask-Migrate
@@ -37,14 +37,11 @@
  http://127.0.0.1:5000/mostrar
 
 ## Modelo de Json
+```JSON
  {
- 
      "nome": "Nome",
-     
      "marca": "Marca",
-     
      "preco": 5.5,
-     
      "quantidade": 10   
-     
  }
+```
